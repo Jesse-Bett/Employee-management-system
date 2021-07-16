@@ -45,8 +45,8 @@ BEFORE running the application , make sure u insert the relevant database URI's 
 ```bash
 flask run
 ```
-
-## Usage
+     
+### Usage
 Navigate to your localhost(browser) and navigate through.
 ```python
 127.0.0.1/
