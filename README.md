@@ -53,4 +53,4 @@ Navigate to your localhost(browser) and navigate through.
 ```
 
 ## Contributing
-Feel free to make it better😎😎 FORK ME
+Feel free to improve this code
